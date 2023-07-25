@@ -1,6 +1,6 @@
 import cv2
 import time
-import pyHandTrackingModule as htm
+import HTM as htm
 import numpy as np
 import pyautogui
 
